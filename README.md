@@ -34,9 +34,6 @@ The platform connects citizens, emergency responders, and administrators through
 
 RESQ is designed with AI-assisted emergency response capabilities.
 
-- **AI functionality:** [Describe the specific AI features implemented in your project.]
-- **AI technology:** [Mention the AI model, API, or framework used.]
-
 ## 🛠️ Technology Stack
 
 | Component               | Technology                   |
@@ -44,9 +41,6 @@ RESQ is designed with AI-assisted emergency response capabilities.
 | Frontend                | React.js                     |
 | Backend                 | Node.js, Express.js          |
 | Database                | MongoDB                      |
-| Maps                    | [Add mapping service]        |
-| Real-time communication | [Add implementation/library] |
-| AI                      | [Add AI model/API]           |
 | Location services       | GPS / Geolocation            |
 
 ## 📂 Project Structure
